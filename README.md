@@ -20,7 +20,7 @@ Keep track of your wins, losses, and ties with the built-in scorekeeping feature
 Above all, this Tic-Tac-Toe game is designed to be fun! Whether you're playing against a friend or testing your skills against the AI, the game offers an enjoyable and engaging experience
 
 1. **Clone the repository:**
-    git clone https://github.com/Noob0074/Tic-Tac-To.git
+    git clone https://github.com/Noob0074/TicTacTo.git
 
 2. **Navigate to the project directory:**
     cd BTicTacTo.java

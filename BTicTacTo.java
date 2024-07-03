@@ -164,5 +164,6 @@ class BTicTacTo {
                 }
             }
         }
+        sc.close();
     }
 }
