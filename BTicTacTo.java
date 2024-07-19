@@ -71,12 +71,12 @@ class BTicTacTo {
 
     public static int gameCheck(char box[][], char p1s, char p2s, String p1, String p2, int count) {
         if (checkWin(box, p1s)) {
-            System.out.println(p1 + " WON!!");
+            System.out.println(p1 + " WON!! 🏆");
             p1Wins++;
             return 1;
         }
         if (checkWin(box, p2s)) {
-            System.out.println(p2 + " WON!!");
+            System.out.println(p2 + " WON!! 🏆");
             p2Wins++;
             return 1;
         }
